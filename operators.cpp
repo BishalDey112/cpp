@@ -12,5 +12,6 @@ int main(){
     // cout << a;
 
     cout << (a&b) << endl;
+    cout << (a|b) << endl;
     return 0;
 }
